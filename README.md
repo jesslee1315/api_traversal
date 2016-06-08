@@ -20,5 +20,4 @@ slightly smaller if viewing on a phone.
 
 
 
-See mockup for example of how the image column should look. 
-
+See mockup for example of how the image column should look.

@@ -4,9 +4,30 @@
 }
 
 #container{
-
+  border: 1px solid #00008B;
+  width: auto;
+  height: auto;
+  background-color: #AEC6CF;
 }
 
 #center_column{
-  
+  padding: 0px 500px;
+
+}
+
+.movie_title {
+  text-align: center;
+}
+#search_bar {
+  width: 250px;
+  height: 50px;
+  font-size: 45px;
+  border: solid 2px black;
+  display: inline-block;
+}
+
+#click_butt {
+  padding: 50px 100px 
+  display: inline-block;
+
 }
